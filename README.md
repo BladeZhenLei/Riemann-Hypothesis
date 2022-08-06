@@ -9,4 +9,5 @@ It all starts with counting how many prime number exists in the universe, i.e.
 the answer is: infinitely many (see Euclid's proof)!
 <p/>
 If we get a number $n$, to see how many primes smaller than $n$ are there, we use a function $\pi(n)$ to describe it, this is the so called prime counting function, for example, Gauss and Legendre gave
-(still updating)
+<br/>
+(...still updating...)
