@@ -11,7 +11,7 @@ namley
 $$\pi(n)\sim\frac{n}{log(n)},$$
 which means
 $$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1.$$
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235036-bcd9c136-860c-4639-bbee-bedef8e345c0.png" width="300" height="200"> <p/>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235036-bcd9c136-860c-4639-bbee-bedef8e345c0.png" width="600" height="400"> <p/>
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
 
