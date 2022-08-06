@@ -2,6 +2,7 @@
 
 ## Introduction
 It all starts with counting how many prime number exists in the universe, i.e. $\left{ 2, 3, 5, 7, 11, ... \right}$
+$\{\omega_t, r_t\}_{t=0}^\infty$
 <br/>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/66701331/183228555-2b5ae855-09f6-41ae-8bc3-1329247683b8.png">
