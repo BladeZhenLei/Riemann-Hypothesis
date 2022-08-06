@@ -5,11 +5,14 @@ the answer is <strong>Infinitely many</strong> (see Euclid's proof)!
 <p/>
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this function is called the prime counting function. For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace$ $2, 3, 5, 7$ $\rbrace$ $=4$.
 <p/>
-Gauss and Legendre gave the approximation of $\pi(n)$ as it gets to $+\infty$, by observing the shape of $\pi(n)$
+Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $+\infty$, by observing the shape of $\pi(n)$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183233057-6b6567a0-a1e0-453f-8f72-70c222a81358.png" width="300" height="200"> <p/>
-which is $$\pi(n)\sim\frac{x}{log(x)}.$$
-Now we call this the 
-the <strong>Prime Number Theorem (PNT)</strong>
+namley 
+$$\pi(n)\sim\frac{x}{log(x)},$$
+which means
+$$\lim_{x \to 2} f(x) = 5$$
+and we call this the <strong>Prime Number Theorem (PNT)</strong>
 <br/>
+
 
 (...still updating...)
