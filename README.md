@@ -1,6 +1,6 @@
 # Riemann Hypothesis in a Nutshell
 
-It all starts with counting how many prime number exists in the universe, i.e. $$\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
+It all starts with counting how many prime numbers exist in the universe, i.e. $$\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
 the answer is 'infinitely many' (see Euclid's proof)!
 <p/>
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this function is called the prime counting function. For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace$ $2, 3, 5, 7$ $\rbrace$ $=4$.
@@ -9,7 +9,7 @@ Gauss and Legendre gave the approximation of $\pi(n)$ as it gets to $+\infty$, b
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183233057-6b6567a0-a1e0-453f-8f72-70c222a81358.png" width="300" height="200"> <p/>
 which is $$\frac{x}{log(x)}.$$
 Now naturally we call this 
-the __Prime Number Theorem (PNT)__
+the <strong>Prime Number Theorem (PNT)</strong>
 <br/>
 
 (...still updating...)
