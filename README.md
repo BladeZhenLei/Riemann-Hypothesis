@@ -10,7 +10,7 @@ Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $+\infty$, 
 namley 
 $$\pi(n)\sim\frac{n}{log(n)},$$
 which means
-$$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1$$
+$$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1.$$
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
 
