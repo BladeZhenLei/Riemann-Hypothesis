@@ -1,7 +1,7 @@
 # Riemann Hypothesis in a Nutshell
 
 ## Introduction
-It all starts with counting how many prime number exists in the universe, i.e. $$\{ 2, 3, 5, 7, 11, ... \}$$
+It all starts with counting how many prime number exists in the universe, i.e. $$\lbrace 2, 3, 5, 7, 11, ... \rbrace$$
 
 the answer is: infinitely many (see Euclid's proof)!
 <p/>
