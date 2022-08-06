@@ -10,7 +10,7 @@ Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $+\infty$, 
 namley 
 $$\pi(n)\sim\frac{x}{log(x)},$$
 which means
-$$\lim_{x \to 2} f(x) = 5$$
+$$\lim_{n \to \infty} \frac{\pi(n)}{frac{n}{log(n)}} = 1$$
 and we call this the <strong>Prime Number Theorem (PNT)</strong>
 <br/>
 
