@@ -13,7 +13,7 @@ $$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1.$$
 The plot below shows $\pi(n)$ $vs.$ $\frac{n}{log(n)}$
 
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235288-9fe74fa1-f154-4bfd-9da8-6f1963e9ac9d.png" width="300" height="200"> <p/>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235288-9fe74fa1-f154-4bfd-9da8-6f1963e9ac9d.png" width="500" height="200"> <p/>
 
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
