@@ -12,7 +12,10 @@ meaning that $\pi(n)$ is proportional, or more precisely, asymptotic to $\frac{n
 in the sense
 $$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1.$$
 The plot below shows $\pi(n)$ $vs.$ $\frac{n}{log(n)}$
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183233057-6b6567a0-a1e0-453f-8f72-70c222a81358.png" width="300" height="200"> <p/>
+
+
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235288-9fe74fa1-f154-4bfd-9da8-6f1963e9ac9d.png" width="300" height="200"> <p/>
+
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
 
