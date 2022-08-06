@@ -15,4 +15,4 @@ and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
 
 
-(...still updating...)
+(...being updated...)
