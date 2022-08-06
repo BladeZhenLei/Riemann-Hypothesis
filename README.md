@@ -8,10 +8,10 @@ If we take a look at number $n$, and we use a function $\pi(n)$ to describe how 
 Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $+\infty$, by observing the shape of $\pi(n)$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183233057-6b6567a0-a1e0-453f-8f72-70c222a81358.png" width="300" height="200"> <p/>
 namley 
-$$\pi(n)\sim\frac{x}{log(x)},$$
+$$\pi(n)\sim\frac{n}{log(n)},$$
 which means
 $$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1$$
-and we call this the <strong>Prime Number Theorem (PNT)</strong>
+and we call this the <strong>Prime Number Theorem (PNT).</strong>
 <br/>
 
 
