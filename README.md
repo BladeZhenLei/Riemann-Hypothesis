@@ -1,4 +1,4 @@
-<p align="center"> #Riemann Hypothesis in a Nutshell <p/>
+<h1 align="center"> #Riemann Hypothesis in a Nutshell <p/>
 
 <p align="center"> ## Introduction <p/>
 It all starts with counting how many prime number exists in the universe, i.e. 
