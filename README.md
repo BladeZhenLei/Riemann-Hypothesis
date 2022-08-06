@@ -9,7 +9,7 @@ Gauss and Legendre gave the approximation of $\pi(n)$ as it gets to $+\infty$, b
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183233057-6b6567a0-a1e0-453f-8f72-70c222a81358.png" width="300" height="200"> <p/>
 which is $$\frac{x}{log(x)}.$$
 Now naturally we call this 
-the **Prime Number Theorem (PNT)**
+the __Prime Number Theorem (PNT)__
 <br/>
 
 (...still updating...)
