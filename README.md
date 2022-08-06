@@ -1,7 +1,7 @@
 # Riemann Hypothesis in a Nutshell
 ## Background
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
-the answer is <strong>infinitely many</strong> (see Euclid's proof)!
+the answer is <strong>'infinitely many'</strong> (see Euclid's proof)!
 <p/>
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this is called the <strong>prime counting function</strong>. For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
 <p/>
