@@ -1,4 +1,4 @@
-# Riemann-Hypothesis in a Nutshell
+# Riemann Hypothesis in a Nutshell
 
 It all starts with counting how many prime number exists in the universe, $i.e., {2,3,5,7,11,...}$, the answer is: infinitely many (see Euclid's proof)!
 <br/>
