@@ -26,7 +26,7 @@ Now, we also know that for any real $s>1$ this automatically converges to a real
 $$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
 <p/>
 Euler proofed that for all real $s>1$ we have
-$$\zeta(s)=\prod_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
+$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\sum_{n=1}^{\infty}\frac{1}{p^-{s}}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
 
 
 (to be continued...)
