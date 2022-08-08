@@ -23,6 +23,6 @@ its simplest case takes place when $s=1$, the harmonic series
 $$H(s)=\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
 this clearly diverges (review from calculus).
 Now, we also know that for any real $s>1$ this automatically converges to a real value, for example
-$$\sum_{n=1}^{\infty}\frac{1}{n^1.1}\approx10.584$$
+$$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584$$
 
 (to be continued...)
