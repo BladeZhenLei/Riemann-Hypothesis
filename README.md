@@ -19,15 +19,16 @@ $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}
 its simplest case takes place when $s=1$, the harmonic series
 $$H(s)=\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
 this clearly diverges (review from calculus).
-Now, we also know that for any real $s>1$ this automatically converges to a real value, for example
+Now, we also know that for any real number $s>1$, this sum automatically converges to a real value, for example
 $$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
 <p/>
 In 1730s, Euler proofed that for all real $s>1$ we have
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{1}{2^{-s}}\cdot\frac{1}{3^{-s}}\cdot\frac{1}{5^{-s}}\cdot...,$$
 where the sum is converted into a product over all prime numbers.
 <p/>
-Now, in the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then sum $\zeta(s)$ wil have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$ and not convergent for ${0}<{re(s)}<{1}$.
 ## Background
-In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in the history of mathematics. In short, the original <strong>Riemann Hypothesis (RH)</strong> can be viewed as a suprisingly precise approximation of the <strong>PNT</strong>.
+In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in the history of mathematics.
+Now, for the complex number case of the $\zeta(x)$, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then the sum $\zeta(s)$ diverges and wil have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$ and also not convergent for ${0}<{re(s)}<{1}$ in the regular sense.
+In short, the original <strong>Riemann Hypothesis (RH)</strong> can be viewed as a suprisingly precise approximation of the <strong>PNT</strong>.
 <p/>
 (to be continued...)
