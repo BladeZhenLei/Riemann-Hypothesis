@@ -26,8 +26,10 @@ $$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
 In 1730s, Euler proofed that for all real $s>1$ we have
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{1}{2^{-s}}\cdot\frac{1}{3^{-s}}\cdot\frac{1}{5^{-s}}\cdot...,$$
 where the sum is converted into a product over all prime numbers.
+In the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, and \zeta(s) wil have a simple pole at $s=1+0i$
 <p/>
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
 <p/>
-
+The point $$
+region where $s<$
 (to be continued...)
