@@ -19,5 +19,6 @@ In 1859, Bertrand Riemann published his only paper on number theory: 'On the Num
 <br/>
 In short, the <strong>Riemann Hypothesis</strong> can be viewed as an approximation of the <strong>PNT</strong>.
 <p/>
-Consider the sum $$\mathlarger{\mathlarger{\sum}}_{n=0}^{\infty}\frac{(ix)^2n}{(2n)!}$$
+Consider the sum 
+{\sum}}_{n=0}^{\infty}\frac{(ix)^2n}{(2n)}
 (to be continued...)
