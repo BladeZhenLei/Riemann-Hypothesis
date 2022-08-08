@@ -27,7 +27,7 @@ In 1730s, Euler proofed that for all real $s>1$ we have
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{1}{2^{-s}}\cdot\frac{1}{3^{-s}}\cdot\frac{1}{5^{-s}}\cdot...,$$
 where the sum is converted into a product over all prime numbers.
 <p/>
-Now, in the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then as usual the sum $\zeta(s)$ wil have a <strong>'simple pole'(singularity)</strong> at $re(s)=1$, and the regionis not convergent. 
+Now, in the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then as usual the sum $\zeta(s)$ wil have a <strong>'simple pole(singularity)'</strong> at $re(s)=1$, and the regionis $0<re(s)<1$ is also not convergent in the regular sense. 
 <p/>
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
 <p/>
