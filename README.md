@@ -18,6 +18,8 @@ and we call this the <strong>Prime Number Theorem (PNT).</strong>
 In 1859, Bertrand Riemann published his only paper on number theory: 'On the Number of Prime Numbers less than a Given Quantity', later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
 <p/>
 Consider the sum 
-$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...$$
-
+$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
+its simplist case will be $s=1$, where it becomes the harmonic series
+$$H(s)=\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
+this clearly diverges.
 (to be continued...)
