@@ -13,7 +13,7 @@ $$\lim_{n \to \infty} \frac{\pi(n)}{\frac{n}{log(n)}} = 1.$$
 The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ for $0\leq{n}\leq{1000}$.
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235741-25934d76-cb71-48b8-aca9-6998e33cfc69.png" width="500" height="300"> <p/>
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
-<p/>
+
 ### Background
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in mathematical history...
 <p/>
