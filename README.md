@@ -28,7 +28,6 @@ where the sum is converted into a product over all prime numbers.<p/>
 
 Now if we define $s=a+bi$ where $re(s)=a$ and $im(s)=b$, this sum is called the <strong>Riemann Zeta Function</strong>, it diverges for ${0}<{re(s)}<{1}$ (same as the real number case) and will have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
 <h3>Complex Continuation of the Riemann Zeta Function</h3>
-<h3>Non-Trivial Zeros of the Riemann Zeta Function</h3>
-<h3>Calculation of the Zeros along the Critical Line</h3>
+In the usual sense, $\zeta(s)$ diverges, however, since it is locally analytic (convergent for $re(s)>1$), by performing <strong>'analytic continuation'<strong/> we are able to extend its domain in the region of ${0}<{re(s)}<{1}$.
 <p/>
 (to be continued...)
