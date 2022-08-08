@@ -14,7 +14,7 @@ The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ fo
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235741-25934d76-cb71-48b8-aca9-6998e33cfc69.png" width="500" height="300"> <p/>
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 
-### Background
+## Background
 In 1859, Bertrand Riemann published his only paper on number theory: 'On the Number of Prime Numbers less than a Given Quantity', later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
 <p/>
 Consider the sum 
@@ -23,6 +23,8 @@ its simplest case takes place when $s=1$, the harmonic series
 $$H(s)=\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
 this clearly diverges (review from calculus).
 Now, we also know that for any real $s>1$ this automatically converges to a real value, for example
-$$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584$$
+$$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
+
+
 
 (to be continued...)
