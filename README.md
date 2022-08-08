@@ -34,4 +34,4 @@ Now if we define $s=a+bi$ where $re(s)=a$ and $im(s)=b$, this sum is called the 
 
 In the usual sense, $\zeta(s)$ diverges, however, since it is locally analytic (convergent for $re(s)>1$), by performing **'analytic continuation'** we are able to extend its domain.
   
-<p/>(to be continued)
+<p/>(...to be continued...)
