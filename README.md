@@ -19,7 +19,9 @@ In 1859, Bertrand Riemann published his only paper on number theory: 'On the Num
 <p/>
 Consider the sum 
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
-its simplist case will be $s=1$, where it becomes the harmonic series
+its simplest case takes place when $s=1$, the harmonic series
 $$H(s)=\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
-this clearly diverges.
+this clearly diverges (review from calculus).
+Now, we also know that any real $s\neq1$ 
+
 (to be continued...)
