@@ -1,5 +1,5 @@
 # Riemann Hypothesis in a Nutshell
-### Preliminary
+## Preliminary
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
 the answer is <strong>'infinitely many'</strong> (see Euclid's proof)!
 <p/>
@@ -28,7 +28,7 @@ where the sum is converted into a product over all prime numbers.
 <p/>
 Now, in the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then as usual the sum $\zeta(s)$ wil have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$.
 
-### Background
+## Background
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
 <p/>
 (to be continued...)
