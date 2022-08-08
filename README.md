@@ -15,7 +15,7 @@ The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ fo
 and we call this the <strong>Prime Number Theorem (PNT).</strong>
 
 ### Background
-In 1859, Bertrand Riemann published his only paper on number theory: 'On the Number of Prime Numbers less than a Given Quantity', later on became the most famous unsolved problem in mathematical history. However, in short, <strong>Riemann Hypothesis</strong> can just be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong> that we will discuss shortly.
+In 1859, Bertrand Riemann published his only paper on number theory: 'On the Number of Prime Numbers less than a Given Quantity', later on became the most famous unsolved problem in mathematical history. In short, the <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong> that we will discuss shortly.
 <p/>
 Consider the sum 
 $$\zeta_X\left(u\right)=\sum_{n=1}^{\infty} \frac{1}{n^s}$$
