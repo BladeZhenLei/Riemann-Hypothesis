@@ -21,4 +21,5 @@ In short, <strong>Riemann Hypothesis</strong> can be viewed as an (suprisingly p
 <p/>
 Consider the sum 
 $\zeta(s)=$ $\sum{n=1}^{\infty}$ $\frac{1}{n^s}$
+\[ \sum_{n=1}^{\infty} 2^{-n} = 1 \]
 (to be continued...)
