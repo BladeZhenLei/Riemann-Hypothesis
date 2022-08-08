@@ -16,10 +16,10 @@ and we call this the <strong>Prime Number Theorem (PNT).</strong>
 
 ### Background
 In 1859, Bertrand Riemann published his only paper on number theory: 'On the Number of Prime Numbers less than a Given Quantity', later on became the most famous unsolved problem in mathematical history...
-<br/>
+<p/>
 In short, <strong>Riemann Hypothesis</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong> that we will discuss shortly.
 <p/>
 Consider the sum 
-$\zeta_X\left(u\right)={\sum_{n=1}^{\infty}{N_mu^{m})}$
-$\sum_{d=0}^{d_{max}}}$
+$\zeta_X\left(u\right)=\sum_{n=1}^{\infty}{1/n^s}$
+
 (to be continued...)
