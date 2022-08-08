@@ -25,8 +25,9 @@ this clearly diverges (review from calculus).
 Now, we also know that for any real $s>1$ this automatically converges to a real value, for example
 $$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
 <p/>
-In 1730s Euler proofed that for all real $s>1$ we have
-$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^-{s}}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
+In 1730s, Euler proofed that for all real $s>1$ we have
+$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{1}{2^{-s}}*\frac{1}{3^{-s}}*\frac{1}{5^{-s}+...,$$
+where the sum is converted into a product over the prime numbers.
 
 
 (to be continued...)
