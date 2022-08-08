@@ -29,6 +29,6 @@ where the sum is converted into a product over all prime numbers.
 Now, in the complex number case, we would have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then as usual the sum $\zeta(s)$ wil have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$.
 
 ## Background
-In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in the history of mathematics. In short, the original <strong>Riemann Hypothesis (RH)</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong>.
+In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity' that later on became the most famous unsolved problem in the history of mathematics. In short, the original <strong>Riemann Hypothesis (RH)</strong> can be viewed as a suprisingly precise approximation of the <strong>PNT</strong>.
 <p/>
 (to be continued...)
