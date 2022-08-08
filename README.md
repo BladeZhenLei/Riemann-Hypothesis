@@ -20,5 +20,5 @@ In 1859, Bertrand Riemann published his only paper on number theory: 'On the Num
 In short, <strong>Riemann Hypothesis</strong> can be viewed as an (suprisingly precise) approximation of the <strong>PNT</strong> that we will discuss shortly.
 <p/>
 Consider the sum 
-$\zeta(s)=$ $\sum_{{n=1}^{\infty}}$ $\frac{1}{n^s}$
+$\zeta(s)=$ $\sum{{n=1}{\infty}}$ $\frac{1}{n^s}$
 (to be continued...)
