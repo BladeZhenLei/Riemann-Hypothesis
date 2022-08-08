@@ -1,5 +1,7 @@
 <h1 align="center">Riemann Hypothesis in a Nutshell</h1>
+
 <h3>Preliminary</h3>
+
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.<p/>
 
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
@@ -27,7 +29,9 @@ $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{
 where the sum is converted into a product over all prime numbers.<p/>
 
 Now if we define $s=a+bi$ where $re(s)=a$ and $im(s)=b$, this sum is called the <strong>Riemann Zeta Function</strong>, it diverges for ${0}<{re(s)}<{1}$ (same as the real number case) and will have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
+
 <h3>Complex Continuation of the Riemann Zeta Function</h3>
-In the usual sense, $\zeta(s)$ diverges, however, since it is locally analytic (convergent for $re(s)>1$), by performing <strong>'analytic continuation'<strong/> we are able to extend its domain in the region of ${0}<{re(s)}<{1}$.
-<p/>
-(to be continued...)
+
+In the usual sense, $\zeta(s)$ diverges, however, since it is locally analytic (convergent for $re(s)>1$), by performing **'analytic continuation'** we are able to extend its domain.
+  
+<p/>(to be continued)
