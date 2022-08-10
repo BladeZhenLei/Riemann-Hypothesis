@@ -1,7 +1,8 @@
 <h1 align="center">Riemann Hypothesis in a Nutshell</h1>
 
-<h3>Preliminary</h3>
+<h2>Preliminary</h2>
 
+<h3>Primes</h3>
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.<p/>
 
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
@@ -18,6 +19,8 @@ $$\lim_{n\to\infty}\frac{\pi(n)}{\frac{n}{log(n)}}=1.$$
 The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ for $0\leq{n}\leq{1000}$.
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183235741-25934d76-cb71-48b8-aca9-6998e33cfc69.png" width="500" height="300"> <p/>
 and we call this the <strong>Prime Number Theorem (PNT).</strong> <p/>
+
+<h3>Zeta Function</h3>
 
 Consider the sum 
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
