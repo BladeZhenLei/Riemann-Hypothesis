@@ -37,6 +37,9 @@ Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ i
 
 Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing **'analytic continuation'** we are able to extend its domain.
 
+The method Riemann used in his 1859 paper was a coutour integral that yielded 
+$$\zeta(s)=\frac{\Gamma(s)}{2*\pi*i}$$
+
 A <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
 
   
