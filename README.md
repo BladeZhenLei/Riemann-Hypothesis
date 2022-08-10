@@ -42,7 +42,7 @@ Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by 
 The particular method Riemann used in his 1859 paper was a coutour integral, by going from $+\infty$ (above the real axis), around the origin, and then back to $+\infty$ (below the real axis),
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183797725-2ff4c51d-2f6f-45dc-b2b0-d47715a91830.png" width="300" height="100"> <p/>
 and yielded 
-$$\zeta(s)=\frac{\Gamma(s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{z(e^z-1)}\,dz.$$
+$$\zeta(s)=\frac{\Gamma(1-s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{z(e^z-1)}\,dz.$$
 This form of the Riemann Zeta Function is 'meromorphic', meaning analytic (convergent) everywhere except at a <strong>'simple pole (singularity)'</strong>, namely $re(s)=1$.
 From the above expression Riemann was able to derive a Functional Equation that satistfies
 $$\zeta(s)=2\Gamma(1-s)(2\pi)^{s-1}sin(\frac{\pi{s}}{2})\zeta(1-s),$$
