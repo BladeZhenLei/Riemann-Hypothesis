@@ -55,7 +55,7 @@ However, through some very complicated calculations, more zeros are found with a
 <p/>
 The famous <strong>Riemann Hypothesis (RH)<\strong> is saying: 
 
-<p align="center"><strong>"All of the non-trivial zeros are located on the critical line where $re(s)=\frac{1}{2}$."<\strong></p>
+<p align="center"><strong>"All of the non-trivial zeros are located on the critical line where $re(s)=\frac{1}{2}$."</strong></p>
 
 A parametric plot of the Riemann Zeta Function $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$)
 
