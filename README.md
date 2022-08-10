@@ -55,6 +55,6 @@ However, through some very complicated calculations, more zeros are found with a
 <p/>
 The famous Riemann Hypothesis is saying: 
 <p/>
-<p align="center">"All of the non-trivial zeros are located on the critical line where $re(s)=frac\{1}{2}$."</p>
+<p align="center"><strong>"All of the non-trivial zeros are located on the critical line where $re(s)=\frac{1}{2}$."<strong/></p>
     
 <p/>(...to be continued...)
