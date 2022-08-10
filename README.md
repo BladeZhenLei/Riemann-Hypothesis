@@ -49,7 +49,7 @@ $$\zeta(s)=2\Gamma(1-s)(2\pi)^{s-1}sin(\frac{\pi{s}}{2})\zeta(1-s),$$
 and this is called the <strong>'Riemann Functional Equation'</strong>.
 Now, the above expression shows that $\zeta{s}$ has zeros at $s=-2n$, they are so obvious that we call them the <strong>trivial zeros</strong>.
 <p/>
-However, through some very complicated calculations, more zeros are found with approximately $\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i$...}\rbrace, they behave almost without any pattern and are called the <strong>non-trivial zeros</strong>.
+However, through some very complicated calculations, more zeros are found with approximately $$\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i...\rbrace}$$, they behave almost without any pattern and are called the <strong>non-trivial zeros</strong>.
 
   
   
