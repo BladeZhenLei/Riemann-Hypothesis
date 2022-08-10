@@ -45,6 +45,6 @@ and yielded
 $$\zeta(s)=\frac{\Gamma(s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{z(e^z-1)}\,dz.$$
 This form of the Riemann Zeta Function is 'meromorphic', meaning analytic (convergent) everywhere except at a <strong>'simple pole (singularity)'</strong>, namely $re(s)=1$.
 From the above expression Riemann was able to derive a Functional Equation that satistfies
-$$\zeta(s)=2\Gamma(1-s)(2\pi)^{s-1}sin(frac{\pi{s}}{2})\zeta(1-s),$$
+$$\zeta(s)=2\Gamma(1-s)(2\pi)^{s-1}sin(\frac{\pi{s}}{2})\zeta(1-s),$$
   
 <p/>(...to be continued...)
