@@ -35,9 +35,9 @@ Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ i
 
 <h3>Complex Continuation of the Riemann Zeta Function</h3>
 
-In the usual sense, $\zeta(s)$ diverges for ${0}\leq{re(s)}\leq{1}$, however, by performing **'analytic continuation'** we are able to extend its domain.
+Although at first glance, $\zeta(s)$ diverges for ${0}\leq{re(s)}\leq{1}$, however, by performing **'analytic continuation'** we are able to extend its domain.
 
-for ${0}<{re(s)}<{1}$ (same as the real number case) and will have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
+A <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
 
   
 <p/>(...to be continued...)
