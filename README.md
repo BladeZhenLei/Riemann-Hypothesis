@@ -54,11 +54,10 @@ Now, the above expression shows that $\zeta(s)$ has zeros at $s=-2n$, they are s
 However, through some very complicated calculations, more zeros are found with approximately $$\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i, ...\rbrace},$$ they behave without any pattern (except that they have the same real part) and are called the <strong>non-trivial zeros</strong>.
 <p/>
 The famous <strong>Riemann Hypothesis (RH)</strong> is saying: 
-
 <p align="center"><strong>"All of the non-trivial zeros are located on the critical line where $re(s)=\frac{1}{2}$."</strong></p>
-
-A parametric plot of the Riemann Zeta Function $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$)
-
+A parametric plot of the Riemann Zeta Function $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$) is given by
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
+The most intriguiing part is that these non-trivial zeros can be used to approximate the Prime Number Theorem (with exceptional precision).
+<h2>P</h2>
 
 <p/>(...to be continued...)
