@@ -6,7 +6,7 @@
 In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.<p/>
 
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
-the answer is <strong>'infinitely many'</strong> (see Euclid's proof)! <p/>
+the answer is <strong>infinitely many</strong> (see Euclid's proof)! <p/>
 
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this is called the <strong>prime counting function</strong>. For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
 <p/>
@@ -37,7 +37,7 @@ for all real numbers $s>1$, where the sum is converted into a product over all p
 Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, defined for $re(s)>1$ to have the regular sense of convergence.
 <p/>
 
-Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing **analytic continuation** we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
+Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing what is called the **analytic continuation**, we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
 
 The particular method Riemann used in his 1859 paper was a coutour integral, by going from $+\infty$ (above the real axis), around the origin, and then back to $+\infty$ (below the real axis),
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183797725-2ff4c51d-2f6f-45dc-b2b0-d47715a91830.png" width="300" height="100"> <p/>
@@ -46,7 +46,7 @@ $$\zeta(s)=\frac{\Gamma(1-s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{
 This form of the Riemann Zeta Function is 'meromorphic', meaning analytic (convergent) everywhere except at a <strong>simple pole (singularity)</strong>, namely $re(s)=1$.
 From the above expression Riemann was able to derive a Functional Equation that satistfies
 $$\zeta(s)=2\Gamma(1-s)(2\pi)^{s-1}sin(\frac{\pi{s}}{2})\zeta(1-s),$$
-and this is called the <strong>'Riemann Functional Equation'</strong>.
+and this is called the <strong>Riemann Functional Equation</strong>.
 Now, the above expression shows that $\zeta{s}$ has zeros at $s=-2n$, they are so obvious that we call them the <strong>trivial zeros</strong>.
 <p/>
 However, through some very complicated calculations, more zeros are found with approximately $$\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i, ...\rbrace}$$, they behave almost without any pattern and are called the <strong>non-trivial zeros</strong>.
