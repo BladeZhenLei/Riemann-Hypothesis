@@ -41,6 +41,6 @@ The particular method Riemann used in his 1859 paper was a coutour integral, by 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183789823-ef68d926-2be2-45d8-a984-72cccf377d33.png" width="300" height="85"> <p/>
 and yielded 
 $$\zeta(s)=\frac{\Gamma(s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{z(e^z-1)}\,dz$$
-This form of the Riemann Zeta Function is <strong>'meromorphic'</strong>, meaning convergent everywhere except at one <strong>'simple pole (singularity)'</strong>, namely $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
+This form of the Riemann Zeta Function is 'meromorphic', meaning analytic (convergent) everywhere except at one <strong>'simple pole (singularity)'</strong>, namely $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
   
 <p/>(...to be continued...)
