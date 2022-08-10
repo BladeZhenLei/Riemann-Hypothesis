@@ -54,6 +54,6 @@ Now, the above expression shows that $\zeta(s)$ has zeros at $s=-2n$, they are s
 However, through some very complicated calculations, more zeros are found with approximately $$\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i, ...\rbrace}$$, they behave almost without any pattern (except they have the same real part) and are called the <strong>non-trivial zeros</strong>.
 The famous Riemann Hypothesis is saying:
 <p/>
-$ "All the non-trivial zeros are located on the critical line where re(s)=frac\{1}{2}." $
+$"All the non-trivial zeros are located on the critical line where re(s)=frac\{1}{2}."$
     
 <p/>(...to be continued...)
