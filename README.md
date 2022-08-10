@@ -41,6 +41,7 @@ Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ i
 
 Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing what is called the **analytic continuation**, we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
 
+<h3> The Hypothesis </h3>
 The particular method Riemann used in his 1859 paper was a coutour integral, by going from $+\infty$ (above the real axis), around the origin, and then back to $+\infty$ (below the real axis),
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183797725-2ff4c51d-2f6f-45dc-b2b0-d47715a91830.png" width="300" height="100"> <p/>
 and yielded 
@@ -58,6 +59,5 @@ The famous <strong>Riemann Hypothesis (RH)</strong> is saying:
 A parametric plot of the Riemann Zeta Function $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$) is given by
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
 The most intriguiing part is that these non-trivial zeros can be used to approximate the Prime Number Theorem (with exceptional precision).
-<h2>P</h2>
 
 <p/>(...to be continued...)
