@@ -28,10 +28,14 @@ In 1730s, Euler proofed that for all real $s>1$ we have
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{p^{-s}}=\frac{1}{2^{-s}}\cdot\frac{1}{3^{-s}}\cdot\frac{1}{5^{-s}}\cdot...,$$
 where the sum is converted into a product over all prime numbers.<p/>
 
-Now if we define $s=a+bi$ where $re(s)=a$ and $im(s)=b$, this sum is called the <strong>Riemann Zeta Function</strong>, it diverges for ${0}<{re(s)}<{1}$ (same as the real number case) and will have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
+Now if we have $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, it is defined for $re(s)>1$ to have the regular sense of convergence.
 
 <h3>Complex Continuation of the Riemann Zeta Function</h3>
 
 In the usual sense, $\zeta(s)$ diverges, however, since it is locally analytic (convergent for $re(s)>1$), by performing **'analytic continuation'** we are able to extend its domain.
+
+
+ it diverges for ${0}<{re(s)}<{1}$ (same as the real number case) and will have a <strong>'simple pole (singularity)'</strong> at $re(s)=1$, for which $\frac{1}{\zeta(s)}$ approaches $0$.
+
   
 <p/>(...to be continued...)
