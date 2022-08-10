@@ -31,7 +31,7 @@ In 1730s, Euler proofed that the following holds
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{1-p^{-s}}=\frac{1}{1-2^{-s}}\cdot\frac{1}{1-3^{-s}}\cdot\frac{1}{1-5^{-s}}\cdot...,$$
 for all real numbers $s>1$, where the sum is converted into a product over all prime numbers.<p/>
 
-Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, it is defined for $re(s)>1$ to have the regular sense of convergence.
+Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, defined for $re(s)>1$ to have the regular sense of convergence.
 
 <h3>Complex Continuation of the Riemann Zeta Function</h3>
 
