@@ -40,7 +40,8 @@ Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ i
 Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing **'analytic continuation'** we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
 
 The particular method Riemann used in his 1859 paper was a coutour integral, by going from $+\infty$, around the origin, and then back to $+\infty$ (lower),
-![image](https://user-images.githubusercontent.com/66701331/183797307-8ffdd393-ce85-4371-883a-c08f171fe0fd.png)
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183797442-ba359786-f46f-4033-a26f-4134d3837bc7.png" width="300" height="100"> <p/>
+
 
 and yielded 
 $$\zeta(s)=\frac{\Gamma(s)}{2{\pi}{i}}\int_{-\infty}^{+\infty}\frac{(-z)^{s}}{z(e^z-1)}\,dz.$$
