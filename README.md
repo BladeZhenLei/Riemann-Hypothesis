@@ -57,6 +57,6 @@ The famous <strong>Riemann Hypothesis (RH)</strong> is saying:
 <p align="center"><strong>"All of the non-trivial zeros are located on the critical line where $re(s)=\frac{1}{2}$."</strong></p>
 A parametric plot of the Riemann Zeta Function $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$) is given by
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
-The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to approximate the Prime Number Theorem with exceptional precision!
+The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the Prime Number Theorem with exceptional precision (far beyond the asymptotic approximation)!
 
 <p/>(...to be continued...)
