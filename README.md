@@ -1,7 +1,6 @@
-<h1 align="center">Riemann Hypothesis in a Nutshell</h1>
-
 <h2>Preliminary</h2>
-In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.<p/>
+In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.
+<p/>
 
 <h3>Prime Numbers</h3>
 It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
