@@ -26,7 +26,7 @@ $$\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\cdot\cdot\
 this clearly diverges (review from calculus).
 Now, we also know that for any real number $s>1$, this sum automatically converges to a real value.
 <p/>
-For example, $$\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
+For example, $$\zeta(1.1)=\sum_{n=1}^{\infty}\frac{1}{n^{1.1}}\approx10.584.$$
 In 1730s, Euler proofed that the following holds
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{1-p^{-s}}=\frac{1}{1-2^{-s}}\cdot\frac{1}{1-3^{-s}}\cdot\frac{1}{1-5^{-s}}\cdot\cdot\cdot\cdot,$$
 for all real numbers $s>1$, where the sum is converted into a product over all prime numbers.<p/>
