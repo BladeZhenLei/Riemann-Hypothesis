@@ -59,7 +59,9 @@ We can visualize a parametric plot of $\zeta(\frac{1}{2}+ix)$ with its real part
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
 The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the Prime Number Theorem with exceptional precision (far beyond the asymptotic approximation)!
 
-<p/>(...to be continued...)
+<p/>
+(...to be continued...)
+<p/>
 
 <html lang="en">
 <head>
