@@ -49,10 +49,8 @@ Now, the above expression shows that $\zeta(s)$ has zeros at $s=-2n$, they are s
 <p/>
 However, through some very complicated calculations, more zeros are found with approximately $$\lbrace{s_1=\frac{1}{2}+14.134i, s_2=\frac{1}{2}+21.022i, s_3=\frac{1}{2}+25.010i, ...\rbrace},$$ they behave without any pattern (except that they have the same real part) and are called the <strong>non-trivial zeros</strong>.
 <p/>
-<p/>
 The famous <strong>Riemann Hypothesis (RH)</strong> is asserting: 
-<p align="center"><strong>"All of the non-trivial zeros of the Riemann Zeta Function are located on the critical line where $re(s)=\frac{1}{2}$."</strong>
-</p>
+<p align="center"><strong>"All non-trivial zeros of the Riemann Zeta Function are located on the critical line where $re(s)=\frac{1}{2}$."</strong>
 </p>
 We can visualize a parametric plot of $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$).
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
