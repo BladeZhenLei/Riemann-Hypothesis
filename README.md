@@ -25,9 +25,9 @@ and we call this the <strong>Prime Number Theorem (PNT).</strong> <p/>
 <h3>Zeta Function</h3>
 
 Consider the sum 
-$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+...,$$
+$$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\frac{1}{1^s}+\frac{1}{2^s}+\frac{1}{3^s}+\cdot\cdot\cdot,$$
 its simplest case takes place when $s=1$, the harmonic series
-$$\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+...,$$
+$$\sum_{n=1}^{\infty}\frac{1}{n}=\frac{1}{1}+\frac{1}{2}+\frac{1}{3}+\cdot\cdot\cdot,$$
 this clearly diverges (review from calculus).
 Now, we also know that for any real number $s>1$, this sum automatically converges to a real value.
 <p/>
