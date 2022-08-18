@@ -15,8 +15,7 @@ In 18th century, Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ ge
 <p/>
 $$\pi(n)\sim\frac{n}{log(n)},$$
 <p/>
-meaning that $\pi(n)$ is proportional, or more precisely, <strong>asymptotic</strong> to 
-$$\frac{n}{log(n)},$$
+meaning that $\pi(n)$ is proportional, or more precisely, <strong>asymptotic</strong> to $\frac{n}{log(n)},$
 in the sense
 $$\lim_{n\to\infty}\frac{\pi(n)}{\frac{n}{log(n)}}=1.$$
 The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ for $0\leq{n}\leq{1000}$.
