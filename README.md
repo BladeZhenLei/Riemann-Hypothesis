@@ -39,7 +39,7 @@ for all real numbers $s>1$, where the sum is converted into a product over all p
 Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, defined for $re(s)>1$ to have the regular sense of convergence.
 <p/>
 
-Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing what is called the **analytic continuation**, we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
+Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing what is called the <strong>analytic continuation</strong>, we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
 
 <h3> The Hypothesis </h3>
 The particular method Riemann used in his 1859 paper was a coutour integral, by going from $+\infty$ (above the real axis), around the origin, and then back to $+\infty$ (below the real axis),
