@@ -3,7 +3,8 @@ In 1859, Bertrand Riemann published his only paper on number theory 'On the Numb
 <p/>
 
 <h3>Prime Numbers</h3>
-It all starts with counting how many prime numbers exist in the universe, i.e. \[p={\lbrace} 2, 3, 5, 7, 11, ... {\rbrace},\] the answer is <strong>infinitely many</strong> (see Euclid's proof)! 
+It all starts with counting how many prime numbers exist in the universe, i.e. $$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$ 
+the answer is <strong>infinitely many</strong> (see Euclid's proof)! 
 <p/>
 
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this is called the <strong>prime counting function</strong>. 
