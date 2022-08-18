@@ -11,7 +11,7 @@ If we take a look at number $n$, and we use a function $\pi(n)$ to describe how 
 For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
 <p/>
 
-In 18th century, Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $\infty$, namely ${\pi(n)}\,{\sim}\,{\frac{n}{log(n)}},$
+In 18th century, Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $\infty$, namely ${\pi(n)}{\sim}{\frac{n}{log(n)}},$
 meaning that $\pi(n)$ is proportional, or more precisely, <strong>asymptotic</strong> to $\frac{n}{log(n)},$ in the sense ${\lim_{n\to\infty}}{\frac{\pi(n)}{\frac{n}{log(n)}}}=1.$
 <p/>
 The plot below shows $\pi(n)$ (blue) and $\frac{n}{log(n)}$ (red) against $n$ for $0\leq{n}\leq{1000}$.
