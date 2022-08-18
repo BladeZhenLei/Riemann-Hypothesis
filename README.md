@@ -13,7 +13,7 @@ For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \
 
 In 18th century, Gauss and Legendre gave the approximation of $\pi(n)$ as $n$ gets to $\infty$, namely 
 <p/>
-$\pi(n)\sim\frac{n}{log(n)},$
+$$\pi(n)\sim\frac{n}{log(n)},$$
 <p/>
 meaning that $\pi(n)$ is proportional, or more precisely, <strong>asymptotic</strong> to $\frac{n}{log(n)},$
 in the sense
