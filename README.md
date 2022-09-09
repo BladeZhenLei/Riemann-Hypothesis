@@ -59,7 +59,7 @@ The most intriguing part of the Riemann Hypothesis is that these non-trivial zer
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/189258075-c1e13ad0-59ff-4e1f-b5c7-51413d4c729a.gif" width="500" height="300"> <p/>
 
 
-<p align="center"><strong>"(...to be continued...)<p/>
+<p align="center">(...to be continued...)<p/>
 <html lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
