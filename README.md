@@ -31,7 +31,7 @@ In 1730s, Euler proofed that the following holds
 $$\zeta(s)=\sum_{n=1}^{\infty}\frac{1}{n^s}=\prod_{prime}\frac{1}{1-p^{-s}}=\frac{1}{1-2^{-s}}\cdot\frac{1}{1-3^{-s}}\cdot\frac{1}{1-5^{-s}}\cdot\cdot\cdot\cdot,$$
 for all real numbers $s>1$, where the sum is converted into a product over all prime numbers.<p/>
 
-Now if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, defined for $re(s)>1$ to have the regular sense of convergence.
+Now for the complex number case, if we let $s=a+bi$ where $re(s)=a$ and $im(s)=b$, then this sum $\zeta(s)$ is called the <strong>Riemann Zeta Function</strong>, defined for $re(s)>1$ to have the regular sense of convergence.
 <p/>
 
 Although at first glance, $\zeta(s)$ diverges for ${re(s)}\leq{1}$, however, by performing what is called the <strong>analytic continuation</strong>, we are able to extend its domain with another definite expression (however this is done is unimportant because only one correct expression will be found).
@@ -54,7 +54,7 @@ The famous <strong>Riemann Hypothesis (RH)</strong> is asserting:
 </p>
 We can visualize a parametric plot of $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$).
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
-The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the prime number theorem. As a matter of fact, the more zeros are used, the more this approximation approaches exactly the prime number theorem! 
+The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the prime number theorem. As a matter of fact, the more zeros are used, the more this approximation approaches exactly the <strong>PNT</strong>! 
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/189258075-c1e13ad0-59ff-4e1f-b5c7-51413d4c729a.gif" width="550" height="300"> <p/>
 
