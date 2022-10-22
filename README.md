@@ -54,7 +54,7 @@ The famous <strong>Riemann Hypothesis (RH)</strong> is asserting:
 </p>
 We can visualize a parametric plot of $\zeta(\frac{1}{2}+ix)$ with its real part against imaginary part (for ${0}\leq{x}\leq{100}$).
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183802614-4c643272-1418-4376-82d5-5a5b80bdaaaf.png" width="500" height="450"> <p/>  
-The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the prime number theorem. As a matter of fact, the more zeros are used, the more this approximation approaches exactly the <strong>PNT</strong>! 
+The most intriguing part of the Riemann Hypothesis is that these non-trivial zeros can be used to estimate the prime number theorem. As a matter of fact, the more zeros are used, the more this approximation approaches exactly result of the <strong>PNT</strong>! 
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/189258075-c1e13ad0-59ff-4e1f-b5c7-51413d4c729a.gif" width="550" height="300"> <p/>
 
