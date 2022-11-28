@@ -60,4 +60,4 @@ The most intriguing part of the Riemann Hypothesis is that these non-trivial zer
 
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/189258075-c1e13ad0-59ff-4e1f-b5c7-51413d4c729a.gif" width="550" height="300"> <p/>
 
-<html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script></head>
+<p/><html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script></head>
