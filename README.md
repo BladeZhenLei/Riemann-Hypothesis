@@ -3,8 +3,7 @@ In 1859, Bertrand Riemann published his only paper on number theory 'On the Numb
 <p/>
 
 <h3>Prime Numbers</h3>
-It all starts with counting how many prime numbers exist in the universe, 
-$$p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$$
+It all starts with counting how many prime numbers exist in the universe, $p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$
 the answer is <strong>infinitely many</strong> (see Euclid's proof)! 
 <p/>
 
