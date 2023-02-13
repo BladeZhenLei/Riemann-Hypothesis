@@ -1,5 +1,5 @@
 ***
-In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became one the most famous unsolved problem in the history of mathematics.
+In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.
 <p/>
 
 <h3>Prime Numbers</h3>
