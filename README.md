@@ -1,5 +1,5 @@
 <h3>Introduction</h3>
-In 1859, Bertrand Riemann published his only paper on number theory 'On the Number of Prime Numbers less than a Given Quantity', at the end, he proposed a question that later on became the most famous unsolved problem in the history of mathematics.
+In 1859, Bertrand Riemann published his only number theory paper 'On the Number of Prime Numbers less than a Given Quantity'. In the end, he left a question that has haunted mathematicians for more than 150 years, and still, it is the single most important unsolved problem in the history of mathematics.
 <p/>
 
 It all starts with counting how many prime numbers exist in the universe, $p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$
