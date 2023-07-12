@@ -2,11 +2,11 @@
 In 1859, Bertrand Riemann published his only number theory paper 'On the Number of Prime Numbers less than a Given Quantity'. In the end, he left a question that has haunted mathematicians for more than 150 years, and still, it is the single most important unsolved problem in the history of mathematics.
 <p/>
 
-It all starts with counting how many prime numbers exist in the universe, $p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$
-the answer is <strong>infinitely many</strong> (see Euclid's proof)! 
+We start with counting how many prime numbers exist in the universe, $p=\lbrace 2, 3, 5, 7, 11, ... \rbrace,$
+the answer is <strong>infinitely many</strong> (see Euclid's proof).
 <p/>
 
-If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this is called the <strong>prime counting function</strong>. 
+If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this would be called the <strong>prime counting function</strong>. 
 <p/>
 For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
 <p/>
