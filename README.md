@@ -8,7 +8,7 @@ the answer is <strong>infinitely many</strong> (see Euclid's proof).
 
 If we take a look at number $n$, and we use a function $\pi(n)$ to describe how many primes are there smaller than or equal to $n$, then this would be called the <strong>prime counting function</strong>. 
 <p/>
-For example, $\pi(10)$ $=count$ $prime$ $\leq 10$ $=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
+For example, $\pi(10)$ is the same as count $prime$ $\leq 10$, which means $\pi(10)=count$ $\lbrace 2, 3, 5, 7 \rbrace$ $=4$.
 <p/>
 
 In 18th century, Gauss and Legendre gave the approximation of $\pi(n)$ as it increases, namely ${\pi(n)}{\sim}{\frac{n}{log(n)}},$ meaning that $\pi(n)$ is proportional, or more precisely, <strong>asymptotic</strong> to $\frac{n}{log(n)},$ in the sense 
